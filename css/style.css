@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div, table{
+    margin: 20px 10px;
+}
+header{
+    height: 170px;
+    background-image: url(../img/pattern.png);
+    background-color: 	#1C86EE;
+    padding: 80px 0 0 10px;
+}
+.logo{
+    height: 50px;
+    width: 220px;
+    margin-left: 10px;
+}
+#title{
+    font-size: 3em;
+    font-weight: 800px;
+    margin-left: 10px;
+}
+span{
+    font-size: 20px;
+    font-weight: 100px;
+    color: #1C86EE;
+}
+#tim{
+    width: 350px;
+    font-size: 12px;
+}
+#list{
+    margin-top: 50px;
+}
+table{
+    background-color: #1C86EE;
+}
+#foot{
+    color: grey;
+    font-size: 12px;
+}
+#monitor{
+    width: 200px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+}
+#graph{
+    width: 200px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+}
